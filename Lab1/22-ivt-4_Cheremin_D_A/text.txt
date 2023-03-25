@@ -1,3 +1,1 @@
 git commit ¬-m "more text added to first.txt" 
-erthehfsgsfghhrth bla bla
-erthehfsgsfghhrth bla bla
