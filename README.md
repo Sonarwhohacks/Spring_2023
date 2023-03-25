@@ -1,2 +1,1 @@
-# Spring_2023
-RepositoryForLaboratoryWorks_Spring_2023
+# Lab
