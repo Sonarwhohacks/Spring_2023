@@ -1,3 +1,7 @@
 second
 test
+<<<<<<< HEAD
 test 2(local)
+=======
+test 2
+>>>>>>> 2931ae781483d632ec3faaee092e4d60ca204673
